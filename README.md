@@ -3,10 +3,9 @@ Project made for the course of Systems Programming.
 
 Compile: make all
 
-Run:  ./server
-
+Run:
+      ./server
       ./client
-
       ./bot
       
 Clean: make clean
