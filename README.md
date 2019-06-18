@@ -4,6 +4,7 @@ Project made for the course of Systems Programming.
 Compile: make all
 
 Run:
+
       ./server
       ./client
       ./bot
